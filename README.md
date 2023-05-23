@@ -4,3 +4,4 @@
 
 <h3> Salvando modificações no git </h3>
 * comando git push 
+* comando git pull
